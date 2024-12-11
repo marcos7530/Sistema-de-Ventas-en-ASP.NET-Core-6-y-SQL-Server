@@ -1,0 +1,14 @@
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.deps.json
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\refint\SistemaVenta.Entity.dll
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll
