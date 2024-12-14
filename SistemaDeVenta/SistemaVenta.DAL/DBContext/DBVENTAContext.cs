@@ -398,5 +398,10 @@ public partial class DbventaContext : DbContext
         OnModelCreatingPartial(modelBuilder);
     }
 
+    internal async Task SaveChangesAsync(Venta entidad)
+    {
+        throw new NotImplementedException();
+    }
+
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }

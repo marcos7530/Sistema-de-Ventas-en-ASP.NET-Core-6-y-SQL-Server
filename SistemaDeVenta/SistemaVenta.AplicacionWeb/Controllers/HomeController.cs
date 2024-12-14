@@ -21,6 +21,10 @@ namespace SistemaVenta.AplicacionWeb.Controllers
         public IActionResult Privacy()
         {
             return View();
+        } 
+        public IActionResult Perfil()
+        {
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
