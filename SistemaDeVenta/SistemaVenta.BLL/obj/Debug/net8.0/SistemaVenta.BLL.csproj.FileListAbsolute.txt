@@ -15,3 +15,4 @@ C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 
 C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Entity.pdb
 C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
 C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaV.93BC7325.Up2Date
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.sourcelink.json

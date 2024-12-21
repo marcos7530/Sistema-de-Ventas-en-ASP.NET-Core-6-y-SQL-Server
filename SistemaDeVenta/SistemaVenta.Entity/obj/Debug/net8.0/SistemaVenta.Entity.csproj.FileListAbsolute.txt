@@ -12,3 +12,4 @@ C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 
 C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
 C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
 C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll
+C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.sourcelink.json

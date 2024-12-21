@@ -27,10 +27,13 @@ namespace SistemaVenta.BLL.Implementacion
                 //esto es una variable de tipo IQueryable<Configuracion> que almacena el resultado de la consulta
                 IQueryable<Configuracion> query = await _repositorio.Consultar(c => c.Recurso.Equals("Servicio_Correo"));
 
-                Dictionary<string, string> Config = query.ToDictionary(keySelector: c =>c.Propiedad, elementSelector:c=>c.Valor); 
+                //esto es un diccionario que almacena el resultado de la consulta query y sirve para almacenar la configuracion del correo, donde la propiedad es la llave y el valor es el valor
+                Dictionary<string, string> Config = query.ToDictionary(keySelector: c =>c.Propiedad, elementSelector:c=>c.Valor);
 
+                //esto es un objeto de tipo NetworkCredential que almacena las credenciales del correo, donde el usuario es el correo y la clave es la clave
                 var credenciales = new NetworkCredential(Config["Correo"], Config["Clave"]);
 
+                //esto es un objeto de tipo MailMessage que almacena el correo, donde el remitente es el correo, el asunto es el asunto, el cuerpo es el mensaje y es un cuerpo html
                 var correo = new MailMessage()
                 {
                     From = new MailAddress(Config["Correo"], Config["alias"]),
@@ -39,6 +42,7 @@ namespace SistemaVenta.BLL.Implementacion
                     IsBodyHtml = true
                 };
 
+                //esto es un objeto de tipo MailAddress que almacena el correo destino
                 correo.To.Add(new MailAddress(correoDestino));
 
                 var clienteServidor = new SmtpClient()
@@ -51,7 +55,7 @@ namespace SistemaVenta.BLL.Implementacion
                 };
 
                 clienteServidor.Send(correo);
-
+                return true;
             }
             catch
             {

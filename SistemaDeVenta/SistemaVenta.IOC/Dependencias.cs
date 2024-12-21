@@ -38,6 +38,12 @@ namespace SistemaVenta.IOC
 
             services.AddScoped<ICorreoService, CorreoService>();
 
+            services.AddScoped<IFirebaseService, FirebaseServicio>();
+
+            services.AddScoped<IUtilidadesService, UtilidadService>();
+
+            services.AddScoped<IRolService, RolService>();
+
         }
 
 
