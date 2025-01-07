@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.aplicacionweb\\sistemaventa.aplicacionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\sistemaventa.aplicacionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -120,7 +116,7 @@
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
               "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
               "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwG8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T02:35:58.762Z",
               "EditorCaption": ""
@@ -128,19 +124,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenericResponse.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:49:28.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "SistemaVenta.AplicacionWeb.csproj",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
               "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
@@ -152,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RestablecerClave.cshtml",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
               "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
@@ -164,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "EnviarClave.cshtml",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
               "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
@@ -176,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Plantilla.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Controllers\\Plantilla.cs",
               "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\Plantilla.cs",
@@ -188,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "RolService.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\RolService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\RolService.cs",
@@ -200,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "IRolService.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IRolService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IRolService.cs",
@@ -212,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "UtilidadService.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UtilidadService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UtilidadService.cs",
@@ -224,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "IUtilidadesService.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
@@ -236,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "FirebaseServicio.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\FirebaseServicio.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\FirebaseServicio.cs",
@@ -248,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CorreoService.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
@@ -260,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Dependencias.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.IOC\\Dependencias.cs",
               "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencias.cs",
@@ -272,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "IFirebaseService.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IFirebaseService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IFirebaseService.cs",
@@ -284,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
@@ -296,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\Categoria.cs",
               "RelativeDocumentMoniker": "SistemaVenta.Entity\\Categoria.cs",
@@ -308,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "ICorreoService.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
@@ -320,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "VentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
@@ -332,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "IVentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
@@ -344,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
@@ -356,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
@@ -368,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "SistemaVenta.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
