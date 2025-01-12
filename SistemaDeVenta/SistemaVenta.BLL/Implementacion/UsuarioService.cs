@@ -203,27 +203,68 @@ namespace SistemaVenta.BLL.Implementacion
 
         }
 
-        public Task<Usuario> ObtenerPorId(int IdUsuario)
+        public async Task<Usuario> ObtenerPorId(int IdUsuario)
         {
-            throw new NotImplementedException();
+           IQueryable<Usuario> query = await _repositorio.Consultar(u => u.IdUsuario == IdUsuario);
+
+            Usuario resultado = query.Include(r => r.IdRolNavigation).FirstOrDefault();
+
+
+            return resultado;
         }
 
 
 
-
-
-
-
-
-        public Task<bool> GuardarPerfil(Usuario entidad)
+        public async Task<bool> GuardarPerfil(Usuario entidad)
         {
-            throw new NotImplementedException();
+            try
+            { 
+            
+                Usuario usuario_encontrado= await _repositorio.Obtener(u => u.IdUsuario == entidad.IdUsuario);
+
+                if (usuario_encontrado==null)
+                    throw new TaskCanceledException("El usuario no existe");
+                
+
+
+                usuario_encontrado.Correo=entidad.Correo;
+                usuario_encontrado.Telefono = entidad.Telefono;
+                
+                bool respuesta = await _repositorio.Editar(usuario_encontrado);
+
+                return respuesta;
+
+            }
+            catch
+            {
+                throw;
+            }
         }
 
 
-        public Task<bool> CambiarClave(int IdUsuario, string ClaveActual, string ClaveNueva)
+        public async Task<bool> CambiarClave(int IdUsuario, string ClaveActual, string ClaveNueva)
         {
-            throw new NotImplementedException();
+            try
+            {
+            Usuario usuario_encontrado = await _repositorio.Obtener(u => u.IdUsuario == IdUsuario);
+
+                if (usuario_encontrado == null)
+                    throw new TaskCanceledException("El usuario no existe");
+
+                if(usuario_encontrado.Clave!=_utilidadesService.ConvertirSHA256(ClaveActual))
+                    throw new TaskCanceledException("La contraseña ingresada como actual no es correcta");
+
+                usuario_encontrado.Clave = _utilidadesService.ConvertirSHA256(ClaveNueva);
+
+                bool respuesta = await _repositorio.Editar(usuario_encontrado);
+
+                return respuesta;
+
+            }
+            catch(Exception ex)
+            {
+                throw;
+            }
         }
 
 

@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVenta.Entity
-build_property.ProjectDir = C:\Users\marco\OneDrive\Escritorio\Portafolio\Sistema de Ventas en ASP.NET Core 6 y SQL Server\SistemaDeVenta\SistemaVenta.Entity\
+build_property.ProjectDir = C:\Users\marco\Source\Repos\marcos7530\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\SistemaDeVenta\SistemaVenta.Entity\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

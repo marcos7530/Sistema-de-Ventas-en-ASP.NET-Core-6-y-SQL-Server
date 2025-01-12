@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {}
+    "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+    "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
         "projectName": "SistemaVenta.Entity",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

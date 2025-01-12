@@ -1,90 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\",
+  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\source\\repos\\marcos7530\\sistema-de-ventas-en-asp.net-core-6-y-sql-server\\sistemadeventa\\sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.aplicacionweb\\sistemaventa.aplicacionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\sistemaventa.aplicacionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.aplicacionweb\\controllers\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.aplicacionweb\\views\\plantilla\\enviarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\enviarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF21D61D-2D6D-445E-B14F-7757A63BAD7E}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.ioc\\dependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF21D61D-2D6D-445E-B14F-7757A63BAD7E}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\implementacion\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\interfaces\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\implementacion\\utilidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\utilidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\correoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\interfaces\\iutilidadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iutilidadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\implementacion\\firebaseservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\firebaseservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E4CCA1-8512-403C-9C7C-95B1DD8DF261}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E4CCA1-8512-403C-9C7C-95B1DD8DF261}|SistemaVenta.Entity\\SistemaVenta.Entity.csproj|solutionrelative:sistemaventa.entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.aplicacionweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB1815E7-D770-4CC3-9480-5B78D96E73C5}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.dal\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\marco\\onedrive\\escritorio\\portafolio\\sistema de ventas en asp.net core 6 y sql server\\sistemadeventa\\sistemaventa.dal\\sistemaventa.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CEFB0893-AEA2-4A57-BF8C-B812D09C4424}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\sistemaventa.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,8 +14,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAQwAgBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:35:58.762Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -107,259 +41,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAqwMkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T02:35:58.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SistemaVenta.AplicacionWeb.csproj",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T13:48:30.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RestablecerClave.cshtml",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T13:45:26.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnviarClave.cshtml",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\EnviarClave.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T13:40:15.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Plantilla.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Controllers\\Plantilla.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\Plantilla.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Controllers\\Plantilla.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\Plantilla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:26:24.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RolService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\RolService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\RolService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\RolService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\RolService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:19:15.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRolService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IRolService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IRolService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IRolService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IRolService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:18:11.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UtilidadService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UtilidadService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UtilidadService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UtilidadService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UtilidadService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:51:40.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUtilidadesService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IUtilidadesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:49:59.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FirebaseServicio.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\FirebaseServicio.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\FirebaseServicio.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\FirebaseServicio.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\FirebaseServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T18:41:44.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CorreoService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\CorreoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:58:35.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dependencias.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.IOC\\Dependencias.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencias.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.IOC\\Dependencias.cs",
-              "RelativeToolTip": "SistemaVenta.IOC\\Dependencias.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T20:25:56.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IFirebaseService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IFirebaseService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IFirebaseService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\IFirebaseService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IFirebaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T18:38:30.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:23:30.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\Categoria.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.Entity\\Categoria.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.Entity\\Categoria.cs",
-              "RelativeToolTip": "SistemaVenta.Entity\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T02:22:39.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ICorreoService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\ICorreoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:57:27.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\VentaRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T03:31:25.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IVentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Interfaces\\IVentaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T03:15:56.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Implementacion\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T02:23:30.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T23:05:48.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SistemaVenta.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Escritorio\\Portafolio\\Sistema de Ventas en ASP.NET Core 6 y SQL Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "RelativeToolTip": "SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T23:05:02.734Z"
             }
           ]
         }
