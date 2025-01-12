@@ -65,7 +65,8 @@ namespace SistemaVenta.BLL.Implementacion
                     throw new TaskCanceledException("No se puedo crear el usuario");
                
 
-                if (UrlPlantillaCorreo != ""){
+                if (UrlPlantillaCorreo != "")
+                {
                     UrlPlantillaCorreo = UrlPlantillaCorreo.Replace("{correo}", usuario_creado.Correo).Replace("[clave]",clave_generada);
 
 
@@ -268,9 +269,69 @@ namespace SistemaVenta.BLL.Implementacion
         }
 
 
-        public Task<bool> RestablecerClave(string Correo, string UrlPlantillaCorreo)
+        public async Task<bool> RestablecerClave(string Correo, string UrlPlantillaCorreo)
         {
-            throw new NotImplementedException();
-        }
+            try
+            { 
+
+                Usuario usuario_encontrado = await _repositorio.Obtener(u => u.Correo == Correo);
+
+                if (usuario_encontrado == null)
+                    throw new TaskCanceledException("No encontramos ningun usuario asociado al correo");
+
+
+                string clave_generada = _utilidadesService.GenerarClave();
+                usuario_encontrado.Clave = _utilidadesService.ConvertirSHA256(clave_generada);
+
+
+                ///////////////////////////////////////////////////////////////////
+
+                UrlPlantillaCorreo = UrlPlantillaCorreo.Replace("[clave]", clave_generada);
+
+
+                string html_correo = "";
+
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create(UrlPlantillaCorreo);
+                HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+
+
+
+                if (response.StatusCode == HttpStatusCode.OK)
+                {
+                    using (Stream dataStream = response.GetResponseStream())
+                    {
+                        StreamReader readerStream = null;
+
+                        if (response.CharacterSet == null)
+                            readerStream = new StreamReader(dataStream);
+                        else
+                            readerStream = new StreamReader(dataStream, Encoding.GetEncoding(response.CharacterSet));
+
+                        html_correo = readerStream.ReadToEnd();
+                        response.Close();
+                        readerStream.Close();
+
+                    }
+
+
+                }
+
+                bool correo_enviado = false;
+
+                if (html_correo != "")
+                    await _correoService.EnviarCorreo(Correo, "Contraseña Restablecida", html_correo);
+
+
+                if(!correo_enviado)
+                    throw new TaskCanceledException("Tenemos problemas. Intente mas tarde");
+
+                bool respuesta = await _repositorio.Editar(usuario_encontrado);
+
+                return respuesta;
+            }
+            catch
+            {
+                throw;
+            }
     }
 }
