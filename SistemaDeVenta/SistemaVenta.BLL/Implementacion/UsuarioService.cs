@@ -37,7 +37,7 @@ namespace SistemaVenta.BLL.Implementacion
             return query.Include(rol=>rol.IdRolNavigation).ToList();
         }
 
-
+  
         public async Task<Usuario> Crear(Usuario entidad, Stream Foto = null, string NombreFoto = "", string UrlPlantillaCorreo = "")
         {
            Usuario usuario_existe = await _repositorio.Obtener(x => x.Correo == entidad.Correo);
@@ -115,9 +115,55 @@ namespace SistemaVenta.BLL.Implementacion
 
         }
 
-        public Task<Usuario> Editar(Usuario entidad, Stream Foto = null, string NombreFoto = "")
+        public async Task<Usuario> Editar(Usuario entidad, Stream Foto = null, string NombreFoto = "")
         {
-            throw new NotImplementedException();
+            Usuario usuario_existe = await _repositorio.Obtener(x => x.Correo == entidad.Correo && x.IdUsuario != entidad.IdUsuario);
+            if (usuario_existe != null)
+            {
+                throw new TaskCanceledException("El correo ya existe");
+            }
+
+
+            try
+            {
+                IQueryable<Usuario> queryUsuario = await _repositorio.Consultar(u => u.IdUsuario == entidad.IdUsuario);
+
+                Usuario usuario_editar = queryUsuario.First();
+
+                usuario_editar.Nombre = entidad.Nombre;
+                usuario_editar.Correo = entidad.Correo;
+                usuario_editar.Telefono = entidad.Telefono;
+                usuario_editar.IdRol = entidad.IdRol;
+
+                if (usuario_editar.NombreFoto=="")
+                    usuario_editar.NombreFoto = NombreFoto;
+                
+
+                if (Foto!=null)
+                {
+                    string urlFoto = await _firebaseService.SubirStorage(Foto,"carpeta_usuario" , usuario_editar.NombreFoto);
+                    usuario_editar.UrlFoto=urlFoto;
+                }
+
+                bool respuesta = await _repositorio.Editar(usuario_editar);
+
+                if (!respuesta)
+                    throw new TaskCanceledException("No se pudo modificar el usuario");
+
+                Usuario usuario_editado = queryUsuario.Include(r=>r.IdRolNavigation).First();
+
+                return usuario_editado;
+
+            }
+            catch 
+            {
+                throw;
+            
+            }
+
+
+
+
         }
 
         public Task<bool> Eliminar(int IdUsuario)
