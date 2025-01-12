@@ -192,9 +192,15 @@ namespace SistemaVenta.BLL.Implementacion
 
 
 
-        public Task<Usuario> ObtenerPorCredenciales(string correo, string clave)
+        public async Task<Usuario> ObtenerPorCredenciales(string correo, string clave)
         {
-            throw new NotImplementedException();
+            string clave_encriptada = _utilidadesService.ConvertirSHA256(clave);
+
+            Usuario usuario_encontrado=await _repositorio.Obtener(u => u.Correo == correo && 
+                                                                    u.Clave.Equals(clave_encriptada));
+
+            return usuario_encontrado;
+
         }
 
         public Task<Usuario> ObtenerPorId(int IdUsuario)
