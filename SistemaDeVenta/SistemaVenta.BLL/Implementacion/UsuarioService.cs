@@ -166,9 +166,28 @@ namespace SistemaVenta.BLL.Implementacion
 
         }
 
-        public Task<bool> Eliminar(int IdUsuario)
+        public async Task<bool> Eliminar(int IdUsuario)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Usuario usuario_encontrado = await _repositorio.Obtener(u => u.IdUsuario == IdUsuario);
+
+                if (usuario_encontrado == null)
+                    throw new TaskCanceledException("El usuario no existe");
+                    
+                string nombreFoto = usuario_encontrado.NombreFoto;
+                bool respuesta = await _repositorio.Eliminar(usuario_encontrado);
+
+                if (respuesta)
+                    await _firebaseService.EliminarStorage("carpeta_usuario", nombreFoto);
+
+                return true;
+
+            }
+            catch
+            {
+                throw;
+            }
         }
 
 
