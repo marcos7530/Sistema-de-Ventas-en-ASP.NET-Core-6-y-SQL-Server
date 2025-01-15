@@ -2832,9 +2832,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
       "projectName": "SistemaVenta.DAL",
-      "projectPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+      "projectPath": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\obj\\",
       "projectStyle": "PackageReference",
@@ -2858,8 +2858,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-              "projectPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+            "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+              "projectPath": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
             }
           }
         }

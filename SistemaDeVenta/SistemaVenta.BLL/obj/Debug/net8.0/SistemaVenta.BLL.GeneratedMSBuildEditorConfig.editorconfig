@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVenta.BLL
-build_property.ProjectDir = C:\Users\marco\Source\Repos\marcos7530\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\SistemaDeVenta\SistemaVenta.BLL\
+build_property.ProjectDir = C:\Users\marco\source\repos\marcos7530\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\SistemaDeVenta\SistemaVenta.BLL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

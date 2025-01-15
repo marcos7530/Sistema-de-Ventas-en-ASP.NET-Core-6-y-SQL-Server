@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\marco\\source\\repos\\marcos7530\\sistema-de-ventas-en-asp.net-core-6-y-sql-server\\sistemadeventa\\sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C69963-E273-4E60-9917-8D3993E253A0}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,22 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\UsuarioService.cs",
-              "ViewState": "AgIAAPoAAAAAAAAAAADgvz4BAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T02:35:58.762Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"

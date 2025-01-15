@@ -7150,9 +7150,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
       "projectName": "SistemaVenta.IOC",
-      "projectPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "projectPath": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.IOC\\obj\\",
       "projectStyle": "PackageReference",
@@ -7176,11 +7176,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-              "projectPath": "C:\\Users\\marco\\Source\\Repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+            "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+              "projectPath": "C:\\Users\\marco\\source\\repos\\marcos7530\\Sistema-de-Ventas-en-ASP.NET-Core-6-y-SQL-Server\\SistemaDeVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
             }
           }
         }
